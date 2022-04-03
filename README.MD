@@ -55,10 +55,10 @@ Element at x[2][1]: 10
 ```
 
 # Exercise 7 - Passing Array to Function
-Based from Exercise 4, write a program to calculate summation of array element by passing an array to a function (note: create a function name summationArray)
+Based from Exercise 4, write a program to calculate summation of array element by passing an array to a function (note: create a function name *summationArray*)
 
 # Exercise 8 - Passing Array to Function
-Based from Exercise 6, write a program to display a multidimensional (2D) array by passing an array to a function (note: create a function name displayElement)
+Based from Exercise 6, write a program to display a multidimensional (2D) array by passing an array to a function (note: create a function name *displayElement*)
 
 # Exercise 9 - Pointers
 Write a program to display the address each of element below: (note: use loop in this program)
