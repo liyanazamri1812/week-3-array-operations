@@ -25,7 +25,7 @@ Using printf, display a string "I Love Programming!"
 # Exercise 2 - Onedimensional Array
 Using gets and printf, display a string "I am a Bachelor Degree Student from Universiti Malaysia Kelantan"
 
-# Exercise 3 
+# Exercise 3 - Onedimensional Array
 Using fgets and puts, display a string "Practice Makes Perfect!"
 
 # Exercise 4 - Onedimensional Array
