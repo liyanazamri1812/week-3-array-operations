@@ -1,6 +1,6 @@
-# Tutorial 3 - Basic Operations in Array
+# Tutorial 3 - Additional Tutorial for Array
 
-This tutorial cover operations used in array such as traverse, insertion, deletion, searching and update. Please answer all questions :octocat:
+This is an additional tutorial composed with array for 1D, 2D and pointers. Please answer all questions and read carefully :octocat:
 
 # Instructions 
 
