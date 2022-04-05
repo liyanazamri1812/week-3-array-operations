@@ -1,4 +1,5 @@
 //documentation section 
+//Array Week 3 , Exercise 3
 
 //pre-processor section 
 #include<stdio.h>
@@ -11,9 +12,9 @@ int main(){
     //write here your program
     
     char myString[100];
-    printf ("Enter Your String:"),
-    fgets (myString,sizeof(myString),stdin),
-    puts(myString),
+    printf ("Enter Your String:");
+    fgets (myString,sizeof(myString),stdin);
+    puts(myString);
 
 
     return 0;
