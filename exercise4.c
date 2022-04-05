@@ -20,7 +20,7 @@ int main(){
         sum+=num[i];
     }
     
-    printf("%f.2f",sum);
+    printf("%.2f",sum);
 
 
     return 0;
