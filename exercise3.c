@@ -9,10 +9,14 @@
 //main function section 
 int main(){
     //write here your program
+    
+    char myString[100];
+    printf ("Enter Your String:"),
+    fgets (myString,sizeof(myString),stdin),
+    puts(myString),
 
 
     return 0;
 }
-
 
 //user-defined section 
