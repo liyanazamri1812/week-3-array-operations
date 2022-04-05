@@ -12,7 +12,7 @@ int main(){
     //write here your program
     
     char myString[100];
-    printf ("Enter Your String");
+    printf ("Enter Your String:");
     gets(myString);
     printf("%s" , myString);
 
